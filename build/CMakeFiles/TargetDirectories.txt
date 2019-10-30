@@ -1,0 +1,3 @@
+/media/vy/DATA/projects/face/insightface_cpp/mic/build/CMakeFiles/rebuild_cache.dir
+/media/vy/DATA/projects/face/insightface_cpp/mic/build/CMakeFiles/mxnet-insightface-cpp.dir
+/media/vy/DATA/projects/face/insightface_cpp/mic/build/CMakeFiles/edit_cache.dir
